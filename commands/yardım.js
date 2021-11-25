@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const ayarlar = require('../ayarlar.json')
+const ayarlar = require('../config.json')
 module.exports = {//It is encoded by K4H1N
   name: "yardım",
   description: "Phoenix Music", 
