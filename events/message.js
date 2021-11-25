@@ -1,4 +1,4 @@
-const ayarlar = require("../ayarlar.json");
+const ayarlar = require("../config.json");
 module.exports = async message => {
   let client = message.client;
   let prefix =
